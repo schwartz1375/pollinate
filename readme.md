@@ -1,5 +1,5 @@
 ## Pollinate
-POLLINATE is a [Python](https://python.org) pingback via an HTTP GET request.  There are multiple ways to identify the source IP address for an opened Microsoft Office document ranging from a macro to embedded single pixels images. This method takes advantage of the XML-based file format for [Word Documents](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference) and based off of concepts from [Rhino Security Labs](https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector/subdoc_injector.py) and [tifkin-](https://gist.github.com/tifkin-/a29fb9b88f029216d192).
+POLLINATE is a [Python](https://python.org) pingback via an HTTP GET request.  There are multiple ways to identify the source IP address for an opened Microsoft Office document ranging from a macro to embedded single pixels images. This method takes advantage of the XML-based file format for [Word Documents](https://docs.microsoft.com/en-us/deployoffice/compat/office-file-format-reference) and is based off concepts from [Rhino Security Labs](https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/ms-office/subdoc-injector/subdoc_injector.py) and [tifkin-](https://gist.github.com/tifkin-/a29fb9b88f029216d192).
 
 
 ## Features
